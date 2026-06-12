@@ -1,3 +1,3 @@
 yeah soo. DVR exploit kit. yeah build it and run it on port 34567
 
-how to build and usage is in https://github.com/0xtooda/dvr-exp-kit/blob/main/dvr/tut.txt
+how to build and usage is in https://github.com/Kayc3sh/dvr-exp-kit/blob/main/dvr/tut.txt
